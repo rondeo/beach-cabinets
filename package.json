@@ -1,0 +1,33 @@
+{
+    "name": "beach-cabinets",
+    "version": "1.0.0",
+    "description": "website for my dad",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next",
+        "build": "next build",
+        "start": "next start"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/knoebelja/beach-cabinets.git"
+    },
+    "keywords": [
+        "cabinetry",
+        "woodworking",
+        "design"
+    ],
+    "author": "Joseph Knoebel",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/knoebelja/beach-cabinets/issues"
+    },
+    "homepage": "https://github.com/knoebelja/beach-cabinets#readme",
+    "dependencies": {
+        "install": "^0.12.2",
+        "next": "^8.1.0",
+        "npm": "^6.9.0",
+        "react": "^16.8.6",
+        "react-dom": "^16.8.6"
+    }
+}
